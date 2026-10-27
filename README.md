@@ -29,4 +29,15 @@ Practical Data Analytics portfolio project.
 
 ## How to Explore
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](01_Executive_Overview.png)
+
+### Commercial Analysis
+![Commercial Analysis](02_Commercial_Analysis.png)
+
+### Cohort Analysis
+![Cohort Analysis](03_Cohort_Analysis.png)
+
 Open the `.pbix` file using Microsoft Power BI Desktop. Dashboard screenshots are included in the repository.
